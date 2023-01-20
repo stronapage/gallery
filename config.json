@@ -8,6 +8,6 @@
   "cleanup": true,
   "theme": "cards",
   "css": "./custom.css",
-  "footer": "Photos",
+  "footer": "Photos for u",
   "usage-stats": false
 }
