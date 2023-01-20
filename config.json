@@ -9,6 +9,6 @@
   "theme": "cards",
   "css": "./custom.css",
   "footer": "Photos for u",
-  "photo-download": "link"
+  "photo-download": "link",
   "usage-stats": false
 }
