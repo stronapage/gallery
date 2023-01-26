@@ -8,7 +8,7 @@
   "cleanup": true,
   "theme": "cards",
   "css": "./custom.css",
-  "footer": "Photos for u",
+  "footer": "https://stronapage.github.io/gallery",
   "link-prefix": "/ble/ble/",
   "usage-stats": false
 }
