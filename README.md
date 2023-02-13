@@ -4,6 +4,9 @@ Host your photo/video gallery in Github pages easily using Thumbsup & Github Act
 ### Go to the Gallery
 https://stronapage.github.io/gallery/
 
+### Go to json
+https://github.com/stronapage/data
+
 ### Why this project?
 This project contains starter code for anyone who wants to deploy his/her photo/video galery on Github Pages,
 **Zero Coding Needed**. Since Github pages is a free hosting service offered by Github to host static pages, it
